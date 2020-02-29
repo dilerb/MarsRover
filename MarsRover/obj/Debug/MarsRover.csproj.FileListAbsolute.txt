@@ -1,0 +1,14 @@
+C:\Users\babil\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+C:\Users\babil\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+C:\Users\babil\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+C:\Users\babil\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
+C:\Users\babil\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\babil\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+C:\Users\babil\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
+C:\Users\babil\Desktop\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+C:\Users\babil\Desktop\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+C:\Users\babil\Desktop\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+C:\Users\babil\Desktop\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\babil\Desktop\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+C:\Users\babil\Desktop\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
+C:\Users\babil\Desktop\MarsRover\MarsRover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
